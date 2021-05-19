@@ -1,7 +1,6 @@
-# Menu-FlexBox
 
 # Menu-FlexBox
-## Esse menu foi desenvolvido para treinar minhas habilidades com a propriedade do Css flexbox.
+## Esse menu foi desenvolvido para treinar minhas habilidades com a propriedade do Css flexbox, estava com algumas dúvidas e resolvi treinar fazendo esse menu.
 
 <h4 align="center"> 
 🚀 Finalizado
